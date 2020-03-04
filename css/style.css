@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: PF Din Text Cond Pro,sans-serif;
+  font-family: "PF Din Text Cond Pro",sans-serif;
 }
 
 body {
@@ -35,6 +35,10 @@ body {
   flex-direction: column;
   justify-content: space-between;
   height: 365px;
+}
+
+.prodict__image img{
+  width: 100%;
 }
 
 .product__title {

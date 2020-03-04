@@ -30,7 +30,7 @@ body {
   display: flex;
 }
 
-.production__product {
+.product {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -59,13 +59,13 @@ body {
   text-transform: uppercase;
 }
 
-.button-outline {
+.button--outline {
   padding: 13px 31px;
   border: 2px solid #66cc66;
   color: #66cc66;;
 }
 
-.button-accessory {
+.button--accessory {
   padding: 15px 37px;
   color: #fff;
   background-color: #66cc66;
